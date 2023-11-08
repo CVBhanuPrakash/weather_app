@@ -22,7 +22,7 @@ Welcome to the Weather Webpage project! This webpage is designed to provide user
 ## How to Use
 
 1. Simply enter the name of the city you want to check the weather for.
-2. Click the "Search" button to fetch and display the current weather conditions and the 5-day forecast.
+2. Click the "Get Weather" button to fetch and display the current weather conditions and the 5-day forecast.
 
 ## Technologies Used
 
